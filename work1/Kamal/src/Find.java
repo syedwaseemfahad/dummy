@@ -108,6 +108,6 @@ public class Find {
 		{
 			System.out.println(result.get(i));
 		}
-	}
+	}//Clean code
 	
 }
